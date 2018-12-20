@@ -13,6 +13,6 @@ USER $NB_UID
 # https://pypi.org/project/IP2Location/
 # https://github.com/python-visualization/folium
 RUN pip install --upgrade pip \
-    && pip install pip IP2Location mysql-connector folium plotly tables \
+    && pip install pip IP2Location mysql-connector folium plotly tables pynb \
     && jupyter labextension install @jupyter-widgets/jupyterlab-manager \
     && conda install -c conda-forge scikit-surprise pandas matplotlib ipywidgets
