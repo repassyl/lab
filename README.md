@@ -39,7 +39,7 @@ Run a Jupyter Lab in Docker container.
 
 ## hub.docker.com
 
-https://cloud.docker.com/repository/docker/repassyl/lab
+https://hub.docker.com/r/repassyl/lab
 
 ## More info
 
