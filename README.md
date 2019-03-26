@@ -1,6 +1,6 @@
 # Jupter Lab
 
-Run a Jupyter Lab in Docker container.
+Runs a Jupyter Lab in Docker container.
 
 ## Example 1
 
